@@ -1,10 +1,10 @@
 title: "Max Emes' Typographic Blog "
 description: ""
 header_text: "Typographic Blog "
-footer_text: Copyright 2020 Your name
+footer_text: Copyright 2020 Max Emes
 header_feature_image: ../uploads/typography-.jpg
 bannerheight: 20vmax
-logo: /uploads/logo.jpg
+logo: ../uploads/phonto.jpg
 favicon: /uploads/favicon.ico
 gridlayout: false
 fixednavbar: false
