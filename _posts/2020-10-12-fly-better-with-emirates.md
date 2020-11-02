@@ -17,3 +17,9 @@ Flying around the world, having such an important font is key to spreading the b
 ![](../uploads/emirates-font-.jpg)
 
 This corporate font which is named "EK or Emirates" is a custom typeface which has been designed exclusively for Emirates. Elements of this font have been inspired by the calligraphic forms of the Arabic typography especially within the logo. Furthermore this type reinforces the company's origins in the Middle East of where the company was founded and brought up, showing that Emirates is proud to promote its home in Dubai across the globe. The red background could depict this sense of love towards the company with the contrasted white which almost highlights the structure of a normal white coloured plane. However some could argue that the red could contain the distressing message of danger that the possibility of a crash incident would be on the cards or people who fear flying. Serifs have been used on this font which almost look like the nose of the plane or could potentially be the wings with this curved arch especially the letter E on "Emirates." Italics have been used on their slogan "Fly Better" almost giving this sense of flight or movement. Moreover, its their clear message to that customers would have a better experience on an Emirates airline and this sub text of it being in italics tries to emphasise this.
+
+
+
+![](../uploads/emirates-.jpg)
+
+![](../uploads/fly-emirates.jpeg)
