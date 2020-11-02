@@ -88,8 +88,8 @@ body {
 }
 
 .facts p {
-	text-align: center;
-	color: #black;
+	text-align: left;
+	color: #red;
 	font-size: 40px;
 	font-weight: 300;
 	line-height: 70px;
