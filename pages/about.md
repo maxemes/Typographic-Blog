@@ -1,20 +1,15 @@
 ---
 layout: page
 title: About
+subtitle: All about me and my life
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
-header_feature_image: /uploads/log.jpg
+header_feature_image: ../uploads/phonto.jpg
 published: true
-subtitle: All about me and my life
 tags: null
 description: null
 show: false
 ---
+Welcome to the website fontastic, a page filled with fonts, i mean literally everywhere.My name is Max Emes and I am a Media,Journalism and Publishing student at Oxford Brookes University. Within this blog as if i haven't even mentioned it is all abouts FONTS! hence the name fontastic, fantastic - font-astic you like it eh? Oh that's not all of it, have to make sure to add the memes afterwards because due to the fact i have a very unique name Max Emes,if you chop out the ax of "Max" you'll find yourself with the word Memes.(A lot of thought process went through the name of the website hehe.
 
-This page is where you write something about yourself. You can add pictures so that people know where you come from or where you live.
-
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
-
-This file is saved inside the _pages_ folder and is saved as _about.md_ . Any file in this folder (as long as it has  the YAML header) will automatically show up as a link in the header bar.
-
-You should use **markdown**to write this text and this will automatically be converted to `HTML`.
+Fontasticmemes is a blog of mine which i have created for the sole purpose to spend my free time creating blogs to analyse fonts... well not particuarly ahah, on this website youll find various brands i have specifically chosen to give readers an in depth analysis of why big iconic brands/companies have produced such a eye grabbing logo/font.
