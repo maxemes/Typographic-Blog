@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dairy Milk  "
+title: With a glass and a half of fresh milk
 date: 2020-12-15T19:22:40.147Z
 header_feature_image: ../uploads/cadbury-dairy-milk.jpg
 comments: true
