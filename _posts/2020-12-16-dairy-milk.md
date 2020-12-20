@@ -5,9 +5,11 @@ date: 2020-12-15T19:22:40.147Z
 header_feature_image: ../uploads/cadbury-dairy-milk.jpg
 comments: true
 ---
-Cadbury Dairy Milk is a separate chocolate manufactured by the company Cadbury. It was first introduced in the United Kingdom in 1905 when it was circulated around the country in thousands of stores.It has become one of Cadburys all time sellers and was the best selling chocolate bar in 2014.    
+Cadbury Dairy Milk is a separate chocolate manufactured by the company Cadbury. It was first introduced in the United Kingdom in 1905 when it was circulated around the country in thousands of stores.It has become one of Cadburys all time sellers and was the best selling chocolate bar in 2014. Dairy Milk is a brand of chocolate that wants to provide this feeling of goodness and the best experience of milk chocolate because "every Dairy Milk is made with the best cocoa and the purest milk." Dairy Milk accounts for 40% market share followed by Nestle India with 20% market share. Due to our changing lifestyle there has been an increased demand for indulgent products as people prefer chocolates as an effective snack on-the-go. Traditional sweets have a psychological presence, the rise in the premium chocolates with attractive packaging has provided consumers a gifting alternative to sweets. Cadburys has had this distinctive purple colour since 2007 of it being Pantone 2865C. The wrapping has given the iconic chocolate bar a popular stand point. Cadburys popular slogan being "with a glass and a half of fresh milk." 
 
-Cadburys has had this distinctive purple colour since 2007 of it being Pantone 2865C. The wrapping has given the iconic chocolate bar a popular stand point. Cadburys popular slogan being "with a glass and a half of fresh milk." 
+
+
+Cadbury's Dairy Milk is the market leader in the chocolate confectionary with presence in more than 200 countries, with powerhouses of brands such as Dairy Milk, Bourneville, Oreo, 5 star and temptation. This strong presence of over 200 countries has helped Cadburys have a tremendous distribution network across the globe, especially in India which has that 43.5% market share just for the Dairy Milk Brand. The company's main demographic consist of age groups from 5-40 from primary consumers, geographically urban and semi-urban areas. More targeted for customers who prefer indulging food such as quickly grabbing a chocolate whilst on the move.
 
 ![](../uploads/chocolate-bar-.jpg)
 
