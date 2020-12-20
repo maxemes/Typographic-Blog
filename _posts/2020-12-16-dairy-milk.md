@@ -11,10 +11,8 @@ Cadbury's Dairy Milk is the market leader in the chocolate confectionary with pr
 
 ![](../uploads/chocolate-bar-.jpg)
 
-
-
 ![](../uploads/oip.jpeg)
 
-When analysing Cadburys Typography they have used used this familiar purple background to enhance the text of "Dairy Milk" which is white. The company has emphasised the typography to represent the milk which is used in the chocolate bar as its a milk chocolate bar. The font is relatively bold but is smooth and wavey to portray the motion of milk. This is reinforced with the imagery of the two glasses of milk being poured onto the letter "i" of the text. Moreover its the positioning of the text of both words, they're both not parallel on a straight line but you can see this arch which has been created once again to portray the flow of milk 
+When analysing Cadbury's Typography they have used used this familiar purple background to enhance the text of "Dairy Milk" which is white. The company has emphasised the typography to represent the milk which is used in the chocolate bar as its a milk chocolate bar. The font is relatively bold but is smooth and wavy to portray the motion of milk. This is reinforced with the imagery of the two glasses of milk being poured onto the letter "i" of the text. Moreover its the positioning of the text of both words, they're both not parallel on a straight line but you can see this arch which has been created once again to portray the flow of milk 
 
 On the other hand the company's name Cadbury has been presented in this golden colour, almost as of it showing its prestige or the achievements it has experienced or just how popular the brand. The font used here, has this stitched style to it, embroided on the packing of its products. Almost resembling of the idea that is will permanently stay as it has a big part to play.
